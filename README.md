@@ -1,13 +1,5 @@
 ## Practical task
 
-Using the provided skeleton, implement the REST service.
+this version of the application implements a simple web part with saving Employee to the database postgresql.
 
-
-Useful link: https://spring.io/guides/gs/rest-service/
-
-
-In addition you could use Swagger to provide API documentation.
-        
-        
-  
-
+in progress.
